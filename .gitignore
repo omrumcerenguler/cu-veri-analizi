@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# IDE settings
+.vscode/
+*.code-workspace
+
+# MacOS system files
+.DS_Store
+
+# Data files
+*.csv
+
+# Prophet/Stan temp files
+*.stan
+*.json
+
+# Log files
+*.log
+sorgu.sql
